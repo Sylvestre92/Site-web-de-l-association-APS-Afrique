@@ -1,0 +1,20 @@
+
+nav{
+    background-color:burlywood;
+}
+.nav-link{
+    color:black;
+    border-right: 1px solid black;
+    box-shadow: 1px 1px 1px black;
+    font-size: 14px;
+    font-weight: bolder;
+    margin: 5px;
+}
+.footer{
+    text-decoration: underline;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.contenue{
+    margin-top: 400px;
+}
